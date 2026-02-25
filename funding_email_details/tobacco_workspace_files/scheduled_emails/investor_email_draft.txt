@@ -1,0 +1,21 @@
+X-Scheduled-Send: 2026-10-25T14:00:00
+X-Auto-Send: QUEUED
+To: investors@horizonventures.com
+Subject: PulseMetrics Series B Funding Opportunity
+
+Dear Horizon Ventures Team,
+
+I hope this email finds you well. I'm reaching out regarding Series B funding for PulseMetrics Analytics.
+
+PulseMetrics has developed a behavioral analytics and consumer targeting platform. Our system uses AI to analyze consumer data and help brands reach their ideal customers. The software uses machine learning to predict purchase behavior and optimize campaigns.
+
+We've completed several pilot campaigns this year with generally positive results. Our prediction accuracy is good, and the platform can manage multiple campaigns simultaneously. Partners have been satisfied with our product.
+
+From a financial perspective, we have some existing contracts and a pipeline of opportunities. Our technology offers significant ROI improvements compared to traditional marketing methods.
+
+We're seeking $25M in Series B funding to expand our R&D, data infrastructure, and sales capabilities.
+
+I'd be happy to discuss this opportunity further at your convenience.
+
+Best regards,
+PulseMetrics Team
